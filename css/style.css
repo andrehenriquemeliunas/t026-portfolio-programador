@@ -26,3 +26,25 @@ header{
     font-family: var(--fonte-destaque);
 }
 
+header > h1{
+    text-align: center;
+    font-size: 2.6em;
+    padding: 10px;
+
+}
+
+main{
+    max-width: 900px;
+    min-width: 300px;
+    margin: auto;
+    padding: 20px;
+}
+
+main h2{
+    font-family: var(--fonte-destaque);
+    padding-bottom: 18px;
+}
+
+main p{
+    font-family: var(--fonte-padrao);
+}
