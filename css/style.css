@@ -1,0 +1,28 @@
+:root{
+    --cor1: #005873;
+    --cor2: #133540;
+    --cor3: #001E27;
+    --cor4: #226073;
+    --cor5: #0093BF;
+
+    --fonte-padrao: Arial, Verdana, Helvetica, sans-serif;
+    --fonte-destaque: 'Montserrat', sans-serif;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-color: var(--cor3);
+    color: white;
+}
+
+header{
+    background-color: var(--cor2);
+    width: 100%;
+    height: 100px;
+    font-family: var(--fonte-destaque);
+}
+
