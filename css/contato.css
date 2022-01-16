@@ -73,45 +73,49 @@ main h3{
     padding-bottom: 10px;
 }
 
-.projetos{
-    display: inline-block;
-    background-color: var(--cor2);
-    width: 250px;
-    height: 200px;
-    margin: 15px;
-}
-
-.projetos:hover{
-    transform: scale(1.04);
-    transition: 0.5s;
-    cursor: pointer;
-}
-
-.btn{
+main div{
     margin: auto;
     background-color: var(--cor1);
-    padding: 10px;
+    padding: 12px;
     text-align: center;
-    max-width: 200px;
+    max-width: 300px;
     margin-top: 30px;
     border-radius: 5px;
     box-shadow: 3px 3px 3px rgba(211, 211, 211, 0.062);
 }
 
-.btn > a{
+main a{
     color: white;
-    text-decoration: none;
-    font-family: var(--fonte-destaque);
+    font-family: var(--fonte-destaque);text-decoration: none;
     font-weight: bold;
     text-transform: uppercase;
 }
 
-.btn:hover{
-    background-color: var(--cor2);
-    transition-duration: 0.8s;
+main div:hover{
+    transform: scale(1.04);
+    transition: 0.5s;
     cursor: pointer;
 }
 
+.linkedin{
+    background-color: #1D84BB;
+}
+
+.git{
+    background-color: #000000;
+}
+
+.insta{
+    background-image: linear-gradient(-45deg, #F2506E, #BF36A8, #8836BF, #ffdea0, #F27244);
+}
+
+.whats{
+    background-color: #36c250;
+}
+
+.email{
+    background-color: #244DB3;
+}
 footer{
     color: rgba(255, 255, 255, 0.61);
     text-align: center;
