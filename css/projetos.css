@@ -69,69 +69,14 @@ main h2{
 
 main h3{
     font-family: var(--fonte-destaque);
-    font-size: 1.33em;
+    font-size: 1.1em;
     padding-bottom: 10px;
 }
 
-main p{
-    font-family: var(--fonte-padrao);
-    padding-bottom: 15px;
-    font-size: 1.07em;
-    text-align: justify;
-    max-width: 900px;
-}
-
-ul{
-    list-style-position: inside;
-    font-family: var(--fonte-padrao);font-size: 1.06em;
-    padding-bottom: 10px;
-    list-style-type: '\2714\00A0\00A0';
-}
-
-hr{
-    border-color: var(--color-hr);
-    margin-top: 20px;
-}
-
-img{
-    display: block;
-    margin: auto;
-    padding-bottom: 15px;
-}
-
-.btn{
-    margin: auto;
-    background-color: var(--cor1);
-    padding: 10px;
-    text-align: center;
-    max-width: 200px;
-    margin-top: 30px;
-    border-radius: 5px;
-    box-shadow: 3px 3px 3px rgba(211, 211, 211, 0.062);
-}
-
-.btn > a{
-    color: white;
-    text-decoration: none;
-    font-family: var(--fonte-destaque);
-    font-weight: bold;
-    text-transform: uppercase;
-}
-
-.btn:hover{
+.projetos{
+    display: inline-block;
     background-color: var(--cor2);
-    transition-duration: 0.8s;
-    cursor: pointer;
-}
-
-footer{
-    color: rgba(255, 255, 255, 0.61);
-    text-align: center;
-    padding: 12px;
-    font-family: var(--fonte-destaque);
-    font-size: 0.9em;
-}
-
-footer span{
-    font-weight: bold;
+    width: 250px;
+    height: 200px;
+    margin: 15px;
 }
