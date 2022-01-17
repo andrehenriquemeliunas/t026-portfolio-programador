@@ -87,6 +87,114 @@ main h3{
     cursor: pointer;
 }
 
+div#p1{
+    background-image: url(../midias/projetos/2.png);
+}
+
+div#p2{
+    background-image: url(../midias/projetos/3.png);
+}
+
+div#p3{
+    background-image: url(../midias/projetos/4.png);
+}
+
+div#p4{
+    background-image: url(../midias/projetos/5.png);
+}
+
+div#p5{
+    background-image: url(../midias/projetos/6.png);
+}
+
+div#p6{
+    background-image: url(../midias/projetos/1.png);
+}
+
+div#p1 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div#p2 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div#p3 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div#p4 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div#p5 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+div#p6 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
 .btn{
     margin: auto;
     background-color: var(--cor1);
