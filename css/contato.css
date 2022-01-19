@@ -76,12 +76,13 @@ main h3{
 main div{
     margin: auto;
     background-color: var(--cor1);
-    padding: 12px;
+    padding: 13px;
     text-align: center;
-    max-width: 300px;
     margin-top: 30px;
     border-radius: 5px;
     box-shadow: 3px 3px 3px rgba(211, 211, 211, 0.062);
+    max-width: 510px;
+    min-width: 300px;
 }
 
 main a{
