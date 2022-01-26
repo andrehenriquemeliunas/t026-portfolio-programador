@@ -87,6 +87,10 @@ main h3{
     cursor: pointer;
 }
 
+.bloco-projetos{
+    margin: auto;
+}
+
 div#p1{
     background-image: url(../midias/projetos/2.png);
 }
@@ -111,6 +115,10 @@ div#p6{
     background-image: url(../midias/projetos/1.png);
 }
 
+div#p7{
+    background-image: url(../midias/projetos/7.png);
+}
+
 div#p1 p{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
@@ -123,6 +131,7 @@ div#p1 p{
     padding: 8px;
     margin-left: 30px;
     margin-right: 30px;
+    text-align: center;
 }
 
 div#p2 p{
@@ -137,6 +146,7 @@ div#p2 p{
     padding: 8px;
     margin-left: 30px;
     margin-right: 30px;
+    text-align: center;
 }
 
 div#p3 p{
@@ -151,6 +161,7 @@ div#p3 p{
     padding: 8px;
     margin-left: 30px;
     margin-right: 30px;
+    text-align: center;
 }
 
 div#p4 p{
@@ -165,6 +176,7 @@ div#p4 p{
     padding: 8px;
     margin-left: 30px;
     margin-right: 30px;
+    text-align: center;
 }
 
 div#p5 p{
@@ -179,6 +191,7 @@ div#p5 p{
     padding: 8px;
     margin-left: 30px;
     margin-right: 30px;
+    text-align: center;
 }
 
 div#p6 p{
@@ -193,6 +206,22 @@ div#p6 p{
     padding: 8px;
     margin-left: 30px;
     margin-right: 30px;
+    text-align: center;
+}
+
+div#p7 p{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px;
+    font-size: 1.16em;
+    margin-top: 80px;
+    border: 2px solid white;
+    padding: 8px;
+    margin-left: 30px;
+    margin-right: 30px;
+    text-align: center;
 }
 
 .btn{
