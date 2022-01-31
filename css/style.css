@@ -65,20 +65,25 @@ main h2{
     margin-bottom: 18px;
     padding: 5px 4px 5px;
     background-image: linear-gradient(to right, var(--cor2), transparent);
+    font-size: 1.8em;
 }
 
 main h3{
     font-family: var(--fonte-destaque);
-    font-size: 1.4em;
+    font-size: 1.5em;
     padding-bottom: 10px;
 }
 
 main p{
     font-family: var(--fonte-padrao);
     padding-bottom: 15px;
-    font-size: 1.07em;
+    font-size: 1.08em;
     text-align: justify;
     max-width: 900px;
+}
+
+.texto-sobre{
+    line-height: 1.5em;
 }
 
 ul{
@@ -126,6 +131,10 @@ ul.listas-sem-estilo{
     background-color: var(--cor2);
     transition-duration: 0.8s;
     cursor: pointer;
+}
+
+.listas-sem-estilo{
+    line-height: 1.75em;
 }
 
 footer{

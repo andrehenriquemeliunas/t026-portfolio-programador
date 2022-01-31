@@ -65,11 +65,12 @@ main h2{
     margin-bottom: 18px;
     padding: 5px 4px 5px;
     background-image: linear-gradient(to right, var(--cor2), transparent);
+    font-size: 1.8em;
 }
 
 main h3{
     font-family: var(--fonte-destaque);
-    font-size: 1.1em;
+    font-size: 1.11em;
     padding-bottom: 10px;
 }
 
